@@ -1,1 +1,2 @@
 # ID1021-Data-Structures-and-Algorithms
+This is a course that teaches different data structures and algorithms to the students. In this course I learned data structures such as linked lists, arrays, the stack, the heap, binary trees, queues etc. I also learned simple sorting algorithms such as insertion sort, selection sort and merge sort. All these algorithms and data structures were implemented from scratch and did not use built in libraries that exist in java.
